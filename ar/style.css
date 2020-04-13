@@ -1,0 +1,103 @@
+#item{
+   	background: #ffffff;
+    /*overflow:auto;*/
+ 
+    /* Border style */
+    border: 1px solid #cccccc;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px; 
+ 
+    /* Border Shadow */
+    -moz-box-shadow: 2px 2px 2px #cccccc;
+    -webkit-box-shadow: 2px 2px 2px #cccccc;
+    box-shadow: 2px 2px 2px #cccccc;
+}
+
+/* lista de fontes */
+.texto {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13px; color: #666666; text-decoration: none;}
+.texto10 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #666666; text-decoration: none;}
+.textoinfo {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #037338; text-decoration: none;}
+.texto17 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 17px; color: #000000; text-decoration: none;}
+.adm {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px; color: #bf0000; text-decoration: none;}
+.titulo {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 18px; color: #666666; text-decoration: none;}
+.subtitulo {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #666666; text-decoration: none;}
+.titulo2 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px; color: #0033bc; text-decoration: none;}
+.linkamigo {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 16px; color: #0033bc; text-decoration: none;}
+.info { color:#666666; font-family:arial; font-size:14px; padding:4px 9px; text-decoration:none;}
+/* fim lista de fontes */
+
+.botao_lig{
+	background-color:#00C851;
+	border:1px solid #dcdcdc;
+  display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:10px;
+	margin: 10px;
+  float: top;
+  width: 150px;
+	text-decoration:none;
+}
+.botao_lig:hover {
+	background-color:#5cb85c;
+}
+
+
+.botao_des{
+  background-color:#C80E00;
+  border:1px solid #dcdcdc;
+  display:inline-block;
+  color:#ffffff;
+  font-family:arial;
+  font-size:15px;
+  font-weight:bold;
+  padding:10px;
+  margin: 10px;
+  float: top;
+  width: 150px;
+  text-decoration:none;
+}
+.botao_des:hover {
+  background-color:#BE0B00;
+}
+a{
+  text-decoration: none;
+  color:#ffffff;
+}
+
+
+body {
+  margin:0 auto;
+  margin-top: 50px;
+  padding:30;
+  background:#eeeeee;
+  text-align:center;
+  width: 250px;
+  height: 300px;
+  background: #ffffff;
+  border: 1px solid #cccccc;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  border-radius: 3px; 
+  -moz-box-shadow: 2px 2px 2px #cccccc;
+  -webkit-box-shadow: 2px 2px 2px #cccccc;
+  box-shadow: 2px 2px 2px #cccccc;
+}
+
+#center {
+  width: 1002px;
+  margin:0 auto;
+  padding: 0px;
+  text-align:left;
+}
+
+p{
+  color:#000;
+  font-family:Arial;
+  font-size:20px;
+  font-weight:lighter;
+
+}
